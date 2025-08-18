@@ -1,6 +1,6 @@
 # UIU Installment Calculator App
 
-## [Click here](https://github.com/runtimeghost/uiu-installment-calc-app/releases/download/1.0.1/app-release.apk) to download and install it. 
+## [Click here](https://github.com/runtimeghost/uiu-installment-calc-app/releases/download/v1.0.1/app-release.apk) to download and install it. 
 
 ## Technologies used
 - <a href="https://dart.dev"> <img height="12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /> Dart </a> as the Programming Language
