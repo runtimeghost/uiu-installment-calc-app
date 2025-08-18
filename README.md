@@ -7,7 +7,7 @@
           
 - <a href="https://flutter.dev/"> <img height="12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /> Flutter </a> as the UI development
 
-- <a href="https://bloclibrary.dev/"> <img height="12px" src="https://plugins.jetbrains.com/files/12129/799520/icon/default.png"> Bloc </a> as the State Management helper
+- <a href="https://bloclibrary.dev/"> Flutter Bloc </a> as the State Management helper
 
 ### ⚠️ Android may show warning and want to scan the app before installing. You can scan it. No risk. :)
 
