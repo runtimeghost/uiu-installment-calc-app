@@ -1,16 +1,15 @@
-# uiu_ic
+# UIU Installment Calculator App
 
-A new Flutter project.
+## [Click here](https://github.com/runtimeghost/uiu-installment-calc-app/releases/download/1.0.1/app-release.apk) to download and install it. 
 
-## Getting Started
+## Technologies used
+- <a href="https://dart.dev"> <img height="12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /> Dart </a> as the Programming Language
+          
+- <a href="https://flutter.dev/"> <img height="12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /> Flutter </a> as the UI development
 
-This project is a starting point for a Flutter application.
+- <a href="https://bloclibrary.dev/"> <img height="12px" src="https://plugins.jetbrains.com/files/12129/799520/icon/default.png"> Bloc </a> as the State Management helper
 
-A few resources to get you started if this is your first Flutter project:
+### ⚠️ Android may show warning and want to scan the app before installing. You can scan it. No risk. :)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Got any suggestions or bugs?
+Contact me at [mhossain2330334@bscse.uiu.ac.bd](https://mail.google.com/mail/?view=cm&to=mhossain2330334@bscse.uiu.ac.bd)
