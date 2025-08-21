@@ -5,7 +5,7 @@
 ## Technologies used
 - <a href="https://dart.dev"> <img height="12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" /> Dart </a> as the Programming Language
           
-- <a href="https://flutter.dev/"> <img height="12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /> Flutter </a> as the UI development
+- <a href="https://flutter.dev/"> <img height="12px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" /> Flutter </a> as the UI development Framework
 
 - <a href="https://bloclibrary.dev/"> Flutter Bloc </a> as the State Management helper
 
