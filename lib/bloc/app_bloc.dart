@@ -16,9 +16,9 @@ class AppBloc extends Bloc<AppEvent, AppState> {
   };
 
   AppBloc() : super(AppInitial()) {
-    on<TransportToggleEvent>((event, emit) {
-      emit(TransportToggledState(event.transport));
-    });
+    on<TransportToggleEvent>(
+      (event, emit) => emit(TransportToggledState(event.transport)),
+    );
 
     on<ThemeChangeEvent>((event, emit) {
       emit(
